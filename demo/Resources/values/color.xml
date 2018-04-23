@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+	<color name="primary">#8bbb00</color>
+    <color name="primary_dark">#8bbb00</color>
+    <color name="primary_darker">#145ca4</color>
+	<color name="accent">#FFFFFF</color>
+
+	
+    <color name="transparent">#00000000</color>
+    <color name="textcolor">#000000</color>
+    <!--<color name="actionbarback">#003878</color>-->
+	<color name="actionbarback">#078485</color>
+    <color name="actionbarbotoom">#078485</color>
+    <color name="actionbarforecolor">#FFFFFF</color>
+    <color name="splashback_gray">#e2e2e2</color>
+    <color name="button_color_light">#185973</color>
+    <color name="button_color_dark">#185973</color>
+    <color name="button_color_disabled">#FF430000</color>
+    <color name="button_default_border">#FF444444</color>
+    <color name="login_button_bg_color">#078485</color>
+    <color name="textcolor_white">#FFFFFF</color>
+    <color name="textcolor_blue">#003878</color>
+    <color name="tab_color">#003878</color>
+    <color name="textcolor_gray">#252525</color>
+    <color name="dark_gray">#ffc3c3c3</color>
+    <color name="color_layout_border">#078485</color>
+
+    <color name="color_pass">#91ab00</color>
+    <color name="color_fail">#aa3b31</color>
+    <color name="color_warning">#d98b37</color>
+    <color name="color_na">#155baa</color>
+    <color name="activity_background_color">#1F000000</color>
+    <color name="text_background">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+
+    <color name="room_audit_log_old">#FFFF0000</color>
+    <color name="room_audit_log_new">#FF00FF00</color>
+    <color name="hurry_task">#55FF0000</color>
+
+</resources>

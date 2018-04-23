@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{A26ED60F-77ED-4848-B131-83ED1ED83BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Release|iPhone.Build.0 = Release|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{A26ED60F-77ED-4848-B131-83ED1ED83BAA}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974375DF-9038-4EA9-BF80-40042C4949B2}
+	EndGlobalSection
+EndGlobal
